@@ -1,2 +1,3 @@
-# RexHelion2
-Rex Helion: The Universe
+# Rex Helion2: The Universe
+
+https://taidanakage.github.io/RexHelion2/
