@@ -1,2 +1,2 @@
-# Rex Helion2: The Universe
+# Rex Helion: The Universe
 
